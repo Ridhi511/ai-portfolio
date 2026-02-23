@@ -1,0 +1,96 @@
+NAME: Ridhi Garg
+ROLE: Fullstack Developer
+
+CONTACT:
+Email: ridhigarg511@gmail.com
+Phone: 7428445744
+LinkedIn: https://linkedin.com/in/ridhi-garg-869ab52aa
+GitHub: https://github.com/Ridhi511
+
+PROFILE:
+Computer Science Engineering student with hands-on experience in full-stack MERN development and growing expertise in AI-powered applications. Skilled in building scalable, responsive web applications using React, Node.js, Express, and MongoDB. Strong foundation in Data Structures and Algorithms, problem-solving, hackathons, and competitive programming.
+
+SKILLS:
+
+Programming Languages:
+- C
+- C++
+- Java
+- Python
+- JavaScript
+
+AI/ML:
+- Large Language Models (LLMs)
+- Prompt Engineering
+- LangChain
+- FAISS
+- Groq API
+- Generative AI
+- Model Context Protocol (MCP)
+
+Frameworks & Libraries:
+- React.js
+- Node.js
+- Express.js
+- Bootstrap
+- RESTful APIs
+
+Databases:
+- MongoDB
+- SQL
+
+Tools & Technologies:
+- Git
+- GitHub
+- Docker
+
+Soft Skills:
+- Teamwork
+- Time Management
+- Communication
+- Leadership
+
+PROFESSIONAL EXPERIENCE:
+
+AI Engineer Intern – Indus Tower
+- Worked on Agentic AI systems and Model Context Protocol (MCP).
+- Built LLM-driven autonomous workflows.
+- Developed AI agents using Python and LangChain.
+- Worked on API integration and tool orchestration.
+- Applied prompt engineering for enterprise AI solutions.
+
+PROJECTS:
+
+1. Tasty Burger – MERN E-Commerce Web App
+- Built full-stack MERN e-commerce application.
+- Features: menu browsing, custom orders, authentication, real-time order tracking.
+- Developed admin dashboard for order and user management.
+- Tech Stack: React.js, Node.js, Express.js, MongoDB.
+
+2. District Query System with LLM Augmentation
+- Fetches district data from APIs.
+- Builds FAISS search index.
+- Integrates Groq LLM with AI chatbot for enhanced query results.
+- Combines search + LLM reasoning.
+
+3. AI-Powered Smart Tourism Platform
+- MERN-based tourism platform.
+- AI chatbot for user assistance.
+- Intelligent itinerary planning.
+- Community engagement features.
+- Blockchain and AI-based fraud detection for secure travel.
+
+ACHIEVEMENTS:
+- Solved 50+ problems on LeetCode (arrays, strings, trees, etc.).
+- Winner – Hackoacalypse (MLSA hackathon).
+- Won Open Track Domain for AI-powered solution.
+
+CERTIFICATIONS:
+- MERN Fullstack
+- Oracle Cloud Infrastructure Certified Gen AI Professional
+- Frontend Development
+- Business Ethics and Corporate Governance
+
+EDUCATION:
+B.Tech in Computer Science Engineering – KIIT University (2023–2027), Bhubaneshwar
+Class 12 – CBSE Board (94%), Haryana
