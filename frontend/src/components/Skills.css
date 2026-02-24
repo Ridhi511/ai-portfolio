@@ -1,0 +1,88 @@
+.skills-section {
+  padding: 100px 60px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* Animated Gradient Background */
+.skills-section::before {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    45deg,
+    #4f46e5,
+    #9333ea,
+    #2563eb,
+    #4f46e5
+  );
+  animation: gradientMove 12s ease infinite;
+  top: -50%;
+  left: -50%;
+  z-index: -1;
+  opacity: 0.15;
+}
+
+@keyframes gradientMove {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.skills-title {
+  font-size: 34px;
+  margin-bottom: 60px;
+  font-weight: 600;
+  color: white;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+}
+
+/* Glassmorphism Card */
+.skill-card {
+  backdrop-filter: blur(12px);
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  padding: 30px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: 0.4s ease;
+  color: white;
+}
+
+.skill-card:hover {
+  transform: translateY(-10px);
+  border-color: #4f46e5;
+}
+
+.skill-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.skill-icon {
+  font-size: 26px;
+  color: #4f46e5;
+}
+
+/* Progress Bar */
+.progress-bar {
+  width: 100%;
+  height: 8px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, #4f46e5, #9333ea);
+  transition: width 1.5s ease;
+  border-radius: 20px;
+}
