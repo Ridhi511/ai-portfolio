@@ -6,3 +6,4 @@ sqlalchemy
 pydantic
 httpx
 requests
+gunicorn

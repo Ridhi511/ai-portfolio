@@ -39,7 +39,7 @@ User Question:
             ],
         },
     )
-
+    
     data = response.json()
 
     print("OPENROUTER RESPONSE:", data)   # 🔥 IMPORTANT DEBUG LINE
