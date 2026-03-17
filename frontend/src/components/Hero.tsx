@@ -28,6 +28,15 @@ const Hero = () => {
           <div className="hero-buttons">
             <a href="/projects" className="btn-primary">View Projects</a>
             <a href="/skills" className="btn-secondary">Explore Skills</a>
+            {/* ✅ NEW RESUME BUTTON */}
+  <a 
+    href="/main_resume.pdf" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+    className="btn-primary"
+  >
+    View Resume
+  </a>
           </div>
         </div>
       </section>
